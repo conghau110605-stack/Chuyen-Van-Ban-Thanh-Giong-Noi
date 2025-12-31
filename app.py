@@ -1,5 +1,3 @@
-# NGUYỄN NHẬT ANH - MSSV:0022411140
-# NGUYỄN NGỌC THANH THẢO - MSSV: 0022411812
 # ĐỀ TÀI: ỨNG DỤNG ĐỌC TIN TỨC PHÁT ÂM THANH TỪ VĂN BẢN LẤY TỪ TẬP TIN
 
 import tkinter as tk
@@ -229,3 +227,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
